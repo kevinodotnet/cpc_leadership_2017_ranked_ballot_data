@@ -1,0 +1,352 @@
+1	Conservative Party of Canada	141694
+2	Alberta	28842
+3	British Columbia	19318
+4	Manitoba	4947
+5	New Brunswick	2130
+6	Newfoundland and Labrador	625
+7	Nova Scotia	2880
+8	Ontario	64784
+9	Prince Edward Island	627
+10	Quebec	9669
+11	Saskatchewan	7404
+12	Yukon	319
+13	Northwest Territories	133
+14	Nunavut	16
+15	Avalon	94
+16	Bonavista–Burin–Trinity	45
+17	Coast of Bays–Central–Notre Dame	69
+18	Labrador	24
+19	Long Range Mountains	55
+20	St. John's East	208
+21	St. John's South–Mount Pearl	130
+22	Cardigan	163
+23	Charlottetown	167
+24	Egmont	116
+25	Malpeque	181
+26	Cape Breton–Canso	187
+27	Central Nova	296
+28	Cumberland–Colchester	296
+29	Dartmouth–Cole Harbour	272
+30	Halifax	334
+31	Halifax West	311
+32	Kings–Hants	239
+33	Sackville–Preston–Chezzetcook	254
+34	South Shore–St. Margarets	277
+35	Sydney–Victoria	172
+36	West Nova	242
+37	Acadie–Bathurst	41
+38	Beauséjour	130
+39	Fredericton	363
+40	Fundy Royal	309
+41	Madawaska–Restigouche	69
+42	Miramichi–Grand Lake	143
+43	Moncton–Riverview–Dieppe	292
+44	New Brunswick Southwest	243
+45	Saint John–Rothesay	225
+46	Tobique–Mactaquac	315
+47	Abitibi–Baie-James–Nunavik–Eeyou	27
+48	Abitibi–Témiscamingue	79
+49	Ahuntsic-Cartierville	81
+50	Alfred-Pellan	44
+51	Argenteuil–La Petite-Nation	102
+52	Avignon–La Mitis–Matane–Matapédia	61
+53	Beauce	1099
+54	Beauport–Limoilou	99
+55	Bécancour–Nicolet–Saurel	110
+56	Bellechasse–Les Etchemins–Lévis	435
+57	Beloeil–Chambly	64
+58	Berthier–Maskinongé	146
+59	Thérèse-De Blainville	57
+60	Pierre-Boucher–Les Patriotes–Verchères	37
+61	Bourassa	37
+62	Brome–Missisquoi	120
+63	Brossard–Saint-Lambert	162
+64	Rimouski-Neigette–Témiscouata–Les Basques	83
+65	Charlesbourg–Haute-Saint-Charles	117
+66	Beauport–Côte-de-Beaupré–Île d'Orléans–Charlevoix	111
+67	Châteauguay–Lacolle	66
+68	Chicoutimi–Le Fjord	67
+69	Compton–Stanstead	138
+70	Dorval–Lachine–LaSalle	115
+71	Drummond	108
+72	Gaspésie–Les Îles-de-la-Madeleine	19
+73	Gatineau	138
+74	Hochelaga	49
+75	Honoré-Mercier	41
+76	Hull–Aylmer	207
+77	Joliette	67
+78	Jonquière	53
+79	La Pointe-de-l'Île	30
+80	La Prairie	71
+81	Lac-Saint-Jean	165
+82	Lac-Saint-Louis	379
+83	LaSalle–Émard–Verdun	91
+84	Laurentides–Labelle	40
+85	Laurier–Sainte-Marie	93
+86	Laval–Les Îles	107
+87	Longueuil–Charles-LeMoyne	68
+88	Lévis–Lotbinière	288
+89	Longueuil–Saint-Hubert	53
+90	Louis-Hébert	169
+91	Louis-Saint-Laurent	177
+92	Manicouagan	35
+93	Mégantic–L'Érable	325
+94	Mirabel	63
+95	Montarville	47
+96	Montcalm	46
+97	Montmagny–L'Islet–Kamouraska–Rivière-du-Loup	211
+98	Mont-Royal (Mount Royal)	235
+99	Notre-Dame-de-Grâce–Westmount	269
+100	Outremont	121
+101	Papineau	52
+102	Pierrefonds–Dollard	221
+103	Pontiac	292
+104	Portneuf–Jacques-Cartier	191
+105	Québec	74
+106	Repentigny	19
+107	Richmond–Arthabaska	194
+108	Rivière-des-Mille-Îles	47
+109	Rivière-du-Nord	20
+110	Rosemont–La Petite-Patrie	40
+111	Marc-Aurèle-Fortin	49
+112	Saint-Hyacinthe–Bagot	114
+113	Saint-Jean	98
+114	Saint-Laurent	170
+115	Saint-Léonard–Saint-Michel	45
+116	Saint-Maurice–Champlain	71
+117	Salaberry–Suroît	107
+118	Shefford	115
+119	Sherbrooke	53
+120	Vaudreuil–Soulanges	121
+121	Terrebonne	31
+122	Trois-Rivières	54
+123	Ville-Marie–Le Sud-Ouest–Île-des-Soeurs	175
+124	Vimy	94
+125	Ajax	444
+126	Algoma–Manitoulin–Kapuskasing	245
+127	Aurora–Oak Ridges–Richmond Hill	832
+128	Barrie–Innisfil	481
+129	Barrie–Springwater–Oro-Medonte	513
+130	Bay of Quinte	510
+131	Beaches–East York	397
+132	Brampton Centre	221
+133	Brampton East	318
+134	Brampton North	266
+135	Brampton South	292
+136	Brampton West	217
+137	Brantford–Brant	487
+138	Bruce–Grey–Owen Sound	767
+139	Burlington	750
+140	Cambridge	485
+141	Chatham-Kent–Leamington	435
+142	Davenport	250
+143	Don Valley East	280
+144	Don Valley North	636
+145	Don Valley West	808
+146	Dufferin–Caledon	760
+147	Durham	851
+148	Eglinton–Lawrence	595
+149	Elgin–Middlesex–London	735
+150	Essex	464
+151	Etobicoke Centre	594
+152	Etobicoke–Lakeshore	619
+153	Etobicoke North	247
+154	Flamborough–Glanbrook	547
+155	Glengarry–Prescott–Russell	654
+156	Guelph	641
+157	Haldimand–Norfolk	522
+158	Haliburton–Kawartha Lakes–Brock	684
+159	Hamilton Centre	248
+160	Hamilton East–Stoney Creek	182
+161	Hamilton Mountain	197
+162	Hamilton West–Ancaster–Dundas	566
+163	Hastings–Lennox and Addington	500
+164	Huron–Bruce	679
+165	Kanata–Carleton	965
+166	Kenora	221
+167	King–Vaughan	525
+168	Kingston and the Islands	551
+169	Kitchener Centre	468
+170	Kitchener–Conestoga	623
+171	Kitchener South–Hespeler	414
+172	Lambton–Kent–Middlesex	763
+173	Lanark–Frontenac–Kingston	765
+174	Leeds–Grenville–Thousand Islands and Rideau Lakes	695
+175	London–Fanshawe	347
+176	London North Centre	672
+177	London West	748
+178	Markham–Stouffville	628
+179	Markham–Thornhill	376
+180	Markham–Unionville	877
+181	Milton	658
+182	Mississauga Centre	452
+183	Mississauga East–Cooksville	287
+184	Mississauga–Erin Mills	863
+185	Mississauga–Lakeshore	664
+186	Mississauga–Malton	314
+187	Mississauga–Streetsville	670
+188	Nepean	828
+189	Newmarket–Aurora	591
+190	Niagara Centre	336
+191	Niagara Falls	547
+192	Niagara West	685
+193	Nickel Belt	181
+194	Nipissing–Timiskaming	334
+195	Northumberland–Peterborough South	719
+196	Oakville	971
+197	Oakville North–Burlington	846
+198	Oshawa	454
+199	Ottawa Centre	1083
+200	Orléans	863
+201	Ottawa South	850
+202	Ottawa–Vanier	612
+203	Ottawa West–Nepean	805
+204	Oxford	712
+205	Parkdale–High Park	512
+206	Parry Sound–Muskoka	552
+207	Perth–Wellington	751
+208	Peterborough–Kawartha	575
+209	Pickering–Uxbridge	458
+210	Renfrew–Nipissing–Pembroke	769
+211	Richmond Hill	576
+212	Carleton	995
+213	St. Catharines	431
+214	Toronto–St. Paul's	735
+215	Sarnia–Lambton	727
+216	Sault Ste. Marie	221
+217	Scarborough–Agincourt	460
+218	Scarborough Centre	241
+219	Scarborough–Guildwood	257
+220	Scarborough North	315
+221	Scarborough–Rouge Park	315
+222	Scarborough Southwest	269
+223	Simcoe–Grey	895
+224	Simcoe North	543
+225	Spadina–Fort York	551
+226	Stormont–Dundas–South Glengarry	685
+227	Sudbury	300
+228	Thornhill	622
+229	Thunder Bay–Rainy River	296
+230	Thunder Bay–Superior North	236
+231	Timmins–James Bay	172
+232	Toronto Centre	461
+233	Toronto–Danforth	415
+234	University–Rosedale	812
+235	Vaughan–Woodbridge	244
+236	Waterloo	765
+237	Wellington–Halton Hills	1337
+238	Whitby	630
+239	Willowdale	426
+240	Windsor–Tecumseh	249
+241	Windsor West	236
+242	York Centre	294
+243	York–Simcoe	367
+244	York South–Weston	109
+245	Humber River–Black Creek	98
+246	Brandon–Souris	561
+247	Charleswood–St. James–Assiniboia–Headingley	442
+248	Churchill–Keewatinook Aski	84
+249	Dauphin–Swan River–Neepawa	448
+250	Elmwood–Transcona	248
+251	Kildonan–St. Paul	338
+252	Portage–Lisgar	535
+253	Provencher	468
+254	Saint Boniface–Saint Vital	325
+255	Selkirk–Interlake–Eastman	416
+256	Winnipeg Centre	174
+257	Winnipeg North	81
+258	Winnipeg South	370
+259	Winnipeg South Centre	457
+260	Battlefords–Lloydminster	443
+261	Cypress Hills–Grasslands	598
+262	Desnethé–Missinippi–Churchill River	205
+263	Carlton Trail–Eagle Creek	612
+264	Moose Jaw–Lake Centre–Lanigan	549
+265	Prince Albert	527
+266	Regina–Lewvan	592
+267	Regina–Qu'Appelle	601
+268	Regina–Wascana	544
+269	Saskatoon–Grasswood	630
+270	Saskatoon–University	609
+271	Saskatoon West	291
+272	Souris–Moose Mountain	634
+273	Yorkton–Melville	569
+274	Banff–Airdrie	1120
+275	Battle River–Crowfoot	873
+276	Bow River	826
+277	Calgary Centre	1101
+278	Calgary Confederation	1109
+279	Calgary Forest Lawn	286
+280	Calgary Heritage	1279
+281	Calgary Midnapore	1226
+282	Calgary Nose Hill	803
+283	Calgary Rocky Ridge	1091
+284	Calgary Shepard	881
+285	Calgary Signal Hill	1253
+286	Calgary Skyview	357
+287	Edmonton Centre	591
+288	Edmonton Griesbach	369
+289	Edmonton Manning	362
+290	Edmonton Mill Woods	356
+291	Edmonton Riverbend	1090
+292	Edmonton Strathcona	531
+293	Edmonton West	644
+294	Edmonton–Wetaskiwin	960
+295	Foothills	1338
+296	Fort McMurray–Cold Lake	493
+297	Grande Prairie–Mackenzie	797
+298	Lakeland	801
+299	Lethbridge	1102
+300	Medicine Hat–Cardston–Warner	1425
+301	Peace River–Westlock	681
+302	Red Deer–Mountain View	916
+303	Red Deer–Lacombe	903
+304	St. Albert–Edmonton	707
+305	Sherwood Park–Fort Saskatchewan	1041
+306	Sturgeon River–Parkland	881
+307	Yellowhead	649
+308	Abbotsford	774
+309	Burnaby North–Seymour	290
+310	Burnaby South	327
+311	Cariboo–Prince George	502
+312	Central Okanagan–Similkameen–Nicola	643
+313	Chilliwack–Hope	801
+314	Cloverdale–Langley City	450
+315	Coquitlam–Port Coquitlam	347
+316	Courtenay–Alberni	576
+317	Cowichan–Malahat–Langford	423
+318	Delta	426
+319	Fleetwood–Port Kells	360
+320	Kamloops–Thompson–Cariboo	465
+321	Kelowna–Lake Country	669
+322	Kootenay–Columbia	535
+323	Langley–Aldergrove	825
+324	Mission–Matsqui–Fraser Canyon	576
+325	Nanaimo–Ladysmith	517
+326	New Westminster–Burnaby	261
+327	North Okanagan–Shuswap	761
+328	North Vancouver	488
+329	Pitt Meadows–Maple Ridge	357
+330	Port Moody–Coquitlam	321
+331	Prince George–Peace River–Northern Rockies	501
+332	Richmond Centre	337
+333	Esquimalt–Saanich–Sooke	394
+334	Saanich–Gulf Islands	510
+335	Skeena–Bulkley Valley	291
+336	South Okanagan–West Kootenay	519
+337	South Surrey–White Rock	654
+338	Steveston–Richmond East	288
+339	Surrey Centre	230
+340	Surrey–Newton	151
+341	Vancouver Centre	419
+342	Vancouver East	278
+343	Vancouver Granville	549
+344	North Island–Powell River	448
+345	Vancouver Kingsway	171
+346	Vancouver Quadra	576
+347	Vancouver South	177
+348	Victoria	548
+349	West Vancouver–Sunshine Coast–Sea to Sky Country	583
+350	Yukon	319
+351	Northwest Territories	133
+352	Nunavut	16
